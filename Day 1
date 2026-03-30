@@ -1,3 +1,14 @@
 We will start the journery from here, as my java skills have rusted tremendously, we find to brush up java first (expected to complete in 1 week even though 3 or 4 days is enough)
 
 https://www.geeksforgeeks.org/dsa/dsa-in-java/
+
+
+Array: Fixed Size
+ArrayList: Dynamic Size
+
+import java.util.*;
+class Checker{
+  public static void main(String[] args){
+
+    int[] arr= {10,20,40,89}
+    System.out.println(Arrays.toString(arr));
